@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edd7b681-848f-4742-81c1-9a24342d3fe8" name="Default Changelist" comment="" />
+    <list default="true" id="edd7b681-848f-4742-81c1-9a24342d3fe8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/entitySets/group_student/Group_Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entitySets/groups/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entitySets/groups/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entitySets/lessons/Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entitySets/lessons/Lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entitySets/payments/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entitySets/payments/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entitySets/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entitySets/student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/runner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/runner/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +56,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,7 +98,9 @@
       <updated>1631505777763</updated>
       <workItem from="1631505782065" duration="4518000" />
       <workItem from="1631557268740" duration="804000" />
-      <workItem from="1631558131018" duration="693000" />
+      <workItem from="1631558131018" duration="1949000" />
+      <workItem from="1631657370675" duration="1001000" />
+      <workItem from="1631658870007" duration="12852000" />
     </task>
     <servers />
   </component>
@@ -105,5 +117,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="javax.persistence.PersistenceException" package="javax.persistence" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
